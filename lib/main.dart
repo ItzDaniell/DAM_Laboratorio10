@@ -116,7 +116,6 @@ class MyHomePage extends StatelessWidget {
           HeroBanner(
             title: 'Los planes empiezan desde S/.13,33/mes',
           ),
-          PlanesSection(),
         ],
       ),
       )
