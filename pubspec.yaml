@@ -77,17 +77,14 @@ flutter:
     - family: Lato
       fonts:
         - asset: assets/fonts/Lato-Regular.ttf
-        - family: Lato
-      
+
     - family: Animo
       fonts:
         - asset: assets/fonts/Animo-Regular.ttf
-        - family: Animo
 
     - family: Raleway
       fonts:
         - asset: assets/fonts/Raleway-Regular.ttf
-        - family: Raleway
   #   - family: Trajan Pro
   #     fonts:
   #       - asset: fonts/TrajanPro.ttf
